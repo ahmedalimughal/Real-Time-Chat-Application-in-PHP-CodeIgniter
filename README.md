@@ -62,3 +62,8 @@ This real-time chat application provides an excellent learning opportunity for i
 Download the source code and start exploring the project to expand your knowledge of PHP web applications!
 
 ---
+## Demo
+
+Click the button below to see the live demo of the project:
+
+[![Live Demo](https://img.shields.io/badge/Demo-Link-blue)](http://example.com/demo-link)
