@@ -12,11 +12,11 @@ A fully functional project based on a Real-Time Chat Application using PHP and t
 
 | **Project Name**             | Real-Time Chat Application                         |
 |------------------------------|----------------------------------------------------|
-| **Technologies Used**         | PHP with Ajax, jQuery & CodeIgniter Framework      |
+| **Technologies Used**         | PHP with Ajax, jQuery & CodeIgniter Framework     |
 | **PHP Version (Recommended)** | 7.1.0 or Newer                                    |
 | **Database**                  | MySQL                                             |
 | **Type**                      | Web Application                                   |
-| **Developer**                 | Argha Paul                                        |
+| **Developer**                 | Ahmed Ali Mughal                                  |
 | **Updates**                   | 0                                                 |
 
 ---
@@ -62,5 +62,3 @@ This real-time chat application provides an excellent learning opportunity for i
 Download the source code and start exploring the project to expand your knowledge of PHP web applications!
 
 ---
-
-This revised version should make your README more readable, structured, and visually appealing.
