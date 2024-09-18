@@ -1,7 +1,3 @@
-Here’s an improved version of your README file with better formatting and information presented in a table:
-
----
-
 # Real-Time Chat Application in PHP CodeIgniter
 
 A fully functional project based on a Real-Time Chat Application using PHP and the CodeIgniter Web Framework. This project contains essential features and can be used by second-year or final-year IT students for their college projects.
@@ -66,4 +62,7 @@ Download the source code and start exploring the project to expand your knowledg
 
 Click the button below to see the live demo of the project:
 
-[![Live Demo](https://img.shields.io/badge/Demo-Link-blue)](http://example.com/demo-link)
+<a href="http://example.com/demo-link" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Link-blue" alt="Live Demo">
+</a>
+
