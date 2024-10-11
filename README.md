@@ -62,8 +62,19 @@ Download the source code and start exploring the project to expand your knowledg
 
 Click the button below to see the live demo of the project:
 
-<a href="#" target="_blank">
+<a href="http://rtc.mywebcommunity.org/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-Link-blue" alt="Live Demo">
+</a>
+
+---
+
+---
+## Download APK
+
+Click the button below to download APK for Android:
+
+<a href="[#](https://www.webintoapp.com/store/455256)" target="_blank">
+    <img src="https://darkhorsebets.com/wp-content/uploads/2021/08/Android-Badge_Black.png" alt="Download">
 </a>
 
 ---
