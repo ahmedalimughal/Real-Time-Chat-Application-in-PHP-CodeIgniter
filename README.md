@@ -1,4 +1,4 @@
-# Real-Time Chat Application in PHP CodeIgniter
+# Real Time Chat Application in PHP CodeIgniter
 
 A fully functional project based on a Real-Time Chat Application using PHP and the CodeIgniter Web Framework. This project contains essential features and can be used by second-year or final-year IT students for their college projects.
 
