@@ -62,7 +62,7 @@ Download the source code and start exploring the project to expand your knowledg
 
 Click the button below to see the live demo of the project:
 
-<a href="http://example.com/demo-link" target="_blank">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Demo-Link-blue" alt="Live Demo">
 </a>
 
