@@ -73,7 +73,7 @@ Click the button below to see the live demo of the project:
 
 Click the button below to download APK for Android:
 
-<a href="[#](https://www.webintoapp.com/store/455256)" target="_blank">
+<a href="https://www.webintoapp.com/store/455256" target="_blank">
     <img src="https://darkhorsebets.com/wp-content/uploads/2021/08/Android-Badge_Black.png" alt="Download">
 </a>
 
